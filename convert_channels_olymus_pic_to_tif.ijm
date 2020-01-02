@@ -21,7 +21,7 @@ pic3_file = dir+"pic2.tif";
 merge_file_name = dir+"merged.tif";
 
 //
-// Check if it is a file with multi widow or sequence
+// Check if it is a file with multi window or a sequence
 //
 if(isOpen(pic2)) {
   // Multi window files
