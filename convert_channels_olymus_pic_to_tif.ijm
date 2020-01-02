@@ -3,7 +3,7 @@
 /// \author    Melanie Schuerz
 /// \author    Joachim Danmayr
 /// \brief     Converts Olympus vis files to tif images
-///            This script supports up two three channels
+///            This script supports up too three channels
 ///
 
 
