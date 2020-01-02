@@ -24,7 +24,7 @@ merge_file_name = dir+"merged.tif";
 // Check if it is a file with multi widow or sequence
 //
 if(isOpen(pic2)) {
-// Multi widow files
+  // Multi window files
 
   selectWindow(pic1);
   run("RGB Color");
