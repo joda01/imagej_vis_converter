@@ -17,7 +17,7 @@ pic3=prefix+" Group:3 Level:1 Area:1";
 
 pic1_file = dir+"pic1.tif";
 pic2_file = dir+"pic2.tif";
-pic3_file = dir+"pic2.tif";
+pic3_file = dir+"pic3.tif";
 merge_file_name = dir+"merged.tif";
 
 //
